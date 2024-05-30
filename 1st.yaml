@@ -1,0 +1,4 @@
+---
+- host1: mhost1
+  var: nothing
+  task: i don;t know
